@@ -1,0 +1,2 @@
+# scriptbot
+Script BOT Newscat
